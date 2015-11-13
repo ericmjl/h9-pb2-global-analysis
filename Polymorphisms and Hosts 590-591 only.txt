@@ -1,0 +1,60 @@
+Polymorphism G590, Q591:
+Bar-Headed Goose/Avian, Horse, Common Tern/Avian, Civet, Golden Pheasant/Avian, Tufted Duck/Avian, Unknown, Armenian Gull/Avian, Greater Scaup/Avian, Scoter/Avian, Northern Shoveler/Avian, Fowl/Avian, Shelduck/Avian, Snow Goose/Avian, Black Scoter/Avian, Laughing Gull/Avian, African Starling/Avian, Ferret, Eurasian Coot/Avian, Blue-Winged Teal/Avian, Gray Teal/Avian, Baikal Teal/Avian, Rhea/Avian, Pink-Footed Goose/Avian, Saker Falcon/Avian, Black-Headed Gull/Avian, Common Babbler/Avian, Gadwall/Avian, Iceland Gull/Avian, Dunlin/Avian, Glaucous Gull/Avian, Silky Chicken/Avian, Egret/Avian, Northern Pintail/Avian, Little Grebe/Avian, Ring-Necked Duck/Avian, Falcon/Avian, Scooter/Avian, Finch/Avian, Magpie Robin/Avian, Parrot/Avian, Pintail/Avian, Wedge-Tailed Shearwater/Avian, Goose/Avian, White-Winged Scoter/Avian, Openbill Stork/Avian, Red-Crested Pochard/Avian, Heron/Avian, Barnacle Goose/Avian, Pigeon/Avian, Red-Winged Tinamou/Avian, Penguin/Avian, Eurasian Sparrowhawk/Avian, Weasel, Black-Billed Magpie/Avian, American Black Duck/Avian, Little Egret/Avian, Whiskered Tern/Avian, Softbill/Avian, Aquatic Bird/Avian, Garganey/Avian, Japanese Quail/Avian, Common Murre/Avian, Turtledove/Avian, Barn Swallow/Avian, Ruddy Turnstone/Avian, Black Bulbul/Avian, Pheasant/Avian, Common Buzzard/Avian, Shorebird/Avian, Sanderling/Avian, Spot-Billed Duck/Avian, Knot/Avian, Great Black-Headed Gull/Avian, Turkey/Avian, Stork/Avian, Condor/Avian, Domestic Cat, Swan/Avian, Sooty Tern/Avian, Bald Eagle/Avian, Magpie/Avian, Coot/Avian, Swine, Crane/Avian, Pelican/Avian, Shrike/Avian, Brown-Headed Gull/Avian, Least Sandpiper/Avian, Chicken/Avian, Munia/Avian, Semipalmated Sandpiper/Avian, Peregrine Falcon/Avian, Eagle/Avian, Redhead/Avian, Crow/Avian, Murre/Avian, Tundra Swan/Avian, Bufflehead/Avian, Quail/Avian, Pochard/Avian, Environment/Avian, Australian Shelduck/Avian, Grey Heron/Avian, Great Crested Grebe/Avian, Curlew/Avian, Redhead Duck/Avian, Environment, Teal/Avian, Duck/Avian, Common Goldeneye/Avian, Poultry/Avian, Greater White-Fronted Goose/Avian, Rook/Avian, Shoveler/Avian, Avian, Mallard-Black Duck Hybrid/Avian, Bewick's Swan/Avian, Sparrow/Avian, Canada Goose/Avian, Common Scoter/Avian, Lesser Kestrel/Avian, Pika, Green-Winged Teal/Avian, Bird/Avian, Sea Mammal, Plateau Pika, Black-Necked Grebe/Avian, Chukar/Avian, Muscovy Duck/Avian, White-Rumped Munia/Avian, Lesser Scaup/Avian, Ostrich/Avian, Civet Cat, Guineafowl/Avian, Whooper Swan/Avian, Dove/Avian, White-Rumped Sandpiper/Avian, Japanese White-Eye/Avian, Grebe/Avian, Shearwater/Avian, Common Eider/Avian, Guinea Hen/Avian, Waterfowl/Avian, Thrush/Avian, Hooded Merganser/Avian, Scaup/Avian, House Crow/Avian, Mute Swan/Avian, Cormorant/Avian, Common Coot/Avian, American Wigeon/Avian, Gull/Avian, null, American Green-Winged Teal/Avian, Blackbird/Avian, Herring Gull/Avian, Myna/Avian, Snipe/Avian, Lab, Emu/Avian, Wild Chicken/Avian, Cinnamon Teal/Avian, Slaty-Backed Gull/Avian, Raccoon Dog, Mew Gull/Avian, Eurasian Wigeon/Avian, Human, Black Duck/Avian, Rosy-Billed Pochard/Avian, Large Cat, Dog, Starling/Avian, Velvet Scoter/Avian, Eurasian Eagle-Owl/Avian, African Stonechat/Avian, Hawk/Avian, Mallard/Avian, Canvasback/Avian, Long-Tailed Duck/Avian, Eurasian Teal/Avian, Red Knot/Avian, Partridge/Avian, Common Quail/Avian, Tree Sparrow/Avian, Sloth, Red-Necked Stint/Avian
+
+Polymorphism S590, Q591:
+Bar-Headed Goose/Avian, Horse, Babbler/Avian, Unknown, Redhead Duck/Avian, Environment, American Wigeon/Avian, Duck/Avian, Common Eider/Avian, Ruddy Turnstone/Avian, White Bellied Bustard/Avian, American Green-Winged Teal/Avian, Pheasant/Avian, Avian, Northern Shoveler/Avian, Mallard-Black Duck Hybrid/Avian, Snow Goose/Avian, Laughing Gull/Avian, Shorebird/Avian, Sanderling/Avian, Blue-Winged Teal/Avian, Turkey/Avian, Whooper Swan/Avian, Swan/Avian, Parakeet/Avian, Black Duck/Avian, Green-Winged Teal/Avian, Silky Chicken/Avian, Bird/Avian, null, Northern Pintail/Avian, Dog, Black-Headed Gull/Avian, Chukar/Avian, Eurasian Eagle-Owl/Avian, Quail/Avian, Parrot/Avian, Muscovy Duck/Avian, Pintail/Avian, Mallard/Avian, Goose/Avian, Lesser Scaup/Avian, Guineafowl/Avian, Chicken/Avian, Camel, Semipalmated Sandpiper/Avian, Pigeon/Avian, Teal/Avian, Red Knot/Avian, Grebe/Avian, Human, Herring Gull/Avian, American Black Duck/Avian, Swine
+
+Polymorphism S590, R591:
+Horse, Domestic Cat, Chicken/Avian, Dog, Bear, Ferret, Duck/Avian, Swine, Human, Turkey/Avian, Mallard/Avian, null, Panda, Weasel
+
+Polymorphism C590, Q591:
+Chicken/Avian, Green-Winged Teal/Avian, Environment, Duck/Avian, Swine, Human, Mallard/Avian, American Black Duck/Avian
+
+Polymorphism X590, X591:
+Avian, Green-Winged Teal/Avian, Shorebird/Avian, Northern Pintail/Avian, Swine, Human, Mallard/Avian, American Black Duck/Avian
+
+Polymorphism G590, K591:
+Chicken/Avian, Avian, Environment, Finch/Avian, Swine, Human, Ostrich/Avian
+
+Polymorphism N590, Q591:
+Chicken/Avian, Avian, Dog, Emu/Avian, Rhea/Avian, Swine, Human
+
+Polymorphism G590, R591:
+Chicken/Avian, Sharp-Tailed Sandpiper/Avian, Avian, Swine, Human
+
+Polymorphism S590, L591:
+Chicken/Avian, Duck/Avian, Swine, Avian
+
+Polymorphism G590, H591:
+Mallard/Avian, Ruddy Turnstone/Avian, Shorebird/Avian, Laughing Gull/Avian
+
+Polymorphism S590, K591:
+Chicken/Avian, Avian, Ostrich/Avian
+
+Polymorphism R590, R591:
+Swine, Human
+
+Polymorphism X590, Q591:
+Mallard/Avian, Green-Winged Teal/Avian
+
+Polymorphism R590, Q591:
+Chicken/Avian, Swine
+
+Polymorphism N590, R591:
+Swine, Human
+
+Polymorphism G590, P591:
+Turkey/Avian, Mallard/Avian
+
+Polymorphism N590, L591:
+Chicken/Avian
+
+Polymorphism G590, L591:
+Human
+
+Polymorphism A590, Q591:
+Gull/Avian
+
+Polymorphism S590, H591:
+Swine
+
